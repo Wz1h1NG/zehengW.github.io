@@ -27,18 +27,9 @@ redirect_from:
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<p align="center"><font size="6px">Zitong Yu (余梓彤) | Great Bay University (湾大)</font><br>
-zitong.yu [at] ieee.org ; yuzitong [at] gbu.edu.cn</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"> I am currently an assistant professor of computer science at Great Bay University, China, leading the YU Vision (YUV) Group. I was a Postdoctoral researcher at ROSE Lab, Nanyang Technological University, working with [Prof. Alex Kot](https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=en). I also serve as an advisor on rPPG-based healthcare for [BioTrillion](https://www.biotrillion.com/team), USA. I received my PhD degree in CS at CMVS, University of Oulu in 2022 (supervised by [Prof. Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en)). I was a visiting scholar at TVG, University of Oxford, from July to November 2021, supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en). My research interests include computer vision, biometric security, and multimodal learning.</p>
 
-I am currently an assistant professor of computer science at Great Bay University, China, leading the YU Vision (YUV) Group. I was a Postdoctoral researcher at ROSE Lab, Nanyang Technological University, working with [Prof. Alex Kot](https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=en). I also serve as an advisor on rPPG-based healthcare for [BioTrillion](https://www.biotrillion.com/team), USA. I received my PhD degree in CS at CMVS, University of Oulu in 2022 (supervised by [Prof. Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en)). I was a visiting scholar at TVG, University of Oxford, from July to November 2021, supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en). My research interests include computer vision, biometric security, and multimodal learning.
-
-<p> 
-    <a href="https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
-    <a href="https://github.com/ZitongYu" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.zhihu.com/people/yu-zi-tong-13" target="_blank" ><img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"></a>
-</p>
-
-I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>[Urgent Recuritment:] I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干.</font></p>
 
 # News
 - [2024.11] Our PhysMamba paper is granted [CCBR 2024 Best Paper Honorable Mention Award (最佳论文提名奖)](https://drive.google.com/file/d/1DnuEuENHoEvMs2G6PwrRnq37ArajycrC/view?usp=sharing), Congra. to Chaoqi & Yiping！
@@ -51,32 +42,35 @@ I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research A
 - [2024.06] One paper on generalized face anti-spoofing is accepted by IEEE TIFS
 - [2024.05] Organizing IJCB'24 Special Session '[Multimodal Human Behavior Understanding and Generation (MUG)](https://sites.google.com/view/ijcb-mug2024)'
 - [2024.05] Will serve as Area Chair (AC) for BMVC 2024
-- [2024.03] One paper on multimodal face anti-spoofing is accepted by IJCV
-- [2024.02] One paper on multimodal face anti-spoofing is accepted by CVPR 2024 as Highlight!
-- [2024.02] A project on visual anomaly detection is granted by Guangdong Provincial Regional Joint Fund - Regional Cultivation Project
-- [2024.02] Promoted to IEEE Senior Member
-- [2024.01] One paper on unsupervised facial rPPG is accepted by IEEE TMM
-- [2024.01] One paper on joint face spoofing and forgery detection is accepted by IEEE TDSC
-- [2023.12] Our CCBR'23 paper '[Detect Any Deepfake](https://github.com/laiyingxin2/DADF)' is granted IAPR Best Student Paper Award, Congra. to Yingxin！
-- [2023.10] Elected among World's Top 2% Scientists 2023 by Stanford University (入选2023全球前2%顶尖科学家榜单)
-- [2023.08] A project on facial rPPG is granted by Young Scientists Fund of the Natural Science Foundation of China
-- [2023.07] Two papers on face anti-spoofing and deception detection are accepted by ICCV 2023 (One as Oral!)
-- [2023.02] One paper on facial rPPG is accepted by CVPR 2023
-- [2023.02] One paper on facial rPPG is accepted by IJCV
-- [2023.01] Invited keynote talk for [WACV2023 - Workshop on Manipulation, Adversarial, and Presentation Attacks in Biometrics](https://sites.google.com/view/wacv2023-map-a/home)
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
+  {% capture hidden_list %}
+  - [2024.03] One paper on multimodal face anti-spoofing is accepted by IJCV
+  - [2024.02] One paper on multimodal face anti-spoofing is accepted by CVPR 2024 as Highlight!
+  - [2024.02] A project on visual anomaly detection is granted by Guangdong Provincial Regional Joint Fund - Regional Cultivation Project
+  - [2024.02] Promoted to IEEE Senior Member
+  - [2024.01] One paper on unsupervised facial rPPG is accepted by IEEE TMM
+  - [2024.01] One paper on joint face spoofing and forgery detection is accepted by IEEE TDSC
+  - [2023.12] Our CCBR'23 paper '[Detect Any Deepfake](https://github.com/laiyingxin2/DADF)' is granted IAPR Best Student Paper Award, Congra. to Yingxin！
+  - [2023.10] Elected among World's Top 2% Scientists 2023 by Stanford University (入选2023全球前2%顶尖科学家榜单)
+  - [2023.08] A project on facial rPPG is granted by Young Scientists Fund of the Natural Science Foundation of China
+  - [2023.07] Two papers on face anti-spoofing and deception detection are accepted by ICCV 2023 (One as Oral!)
+  - [2023.02] One paper on facial rPPG is accepted by CVPR 2023
+  - [2023.02] One paper on facial rPPG is accepted by IJCV
+  - [2023.01] Invited keynote talk for [WACV2023 - Workshop on Manipulation, Adversarial, and Presentation Attacks in Biometrics](https://sites.google.com/view/wacv2023-map-a/home)
+  {% endcapture %}
+  {{ hidden_list | markdownify }}
 </div>
 <a onclick="toggleList()" id='less' style='display:none;'>Show less</a>
 <script>
 function toggleList() {
-	var list = document.getElementById('hiddenList');
-	list.style.display = list.style.display === 'none' ? 'block' : 'none';
-	var button = document.getElementById('more');
-	button.style.display = button.style.display === 'none' ? 'block' : 'none';
-	var buttom_less = document.getElementById('less');
-	buttom_less.style.display = buttom_less.style.display === 'none' ? 'block' : 'none';
+    var list = document.getElementById('hiddenList');
+    list.style.display = list.style.display === 'none' ? 'block' : 'none';
+    var button = document.getElementById('more');
+    button.style.display = button.style.display === 'none' ? 'block' : 'none';
+    var buttom_less = document.getElementById('less');
+    buttom_less.style.display = buttom_less.style.display === 'none' ? 'block' : 'none';
 }
 </script>
 
@@ -210,7 +204,3 @@ function toggleList() {
 
 # Teaching
 - Teaching assistant (TA) for Computer Graphics (521140S), University of Oulu, Spring 2020, 2021
-
- <p class="footer">
-    <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span></span>
-</p>
