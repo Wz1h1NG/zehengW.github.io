@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zitong Yu"
-  avatar           : # "images/zitong.png"
+  avatar           : "images/zitong.png"
   bio              : "Assistant Professor, Great Bay University"
   location         : "Great Bay University, China"
-  employer         : # Great Bay University
+  employer         : Great Bay University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en"
   email            : "zitong.yu@ieee.org"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              : 
   bitbucket        :
   codepen          :
@@ -41,14 +41,14 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # "wenhan-luo-a1843480"
-  dblp             : # "https://dblp.org/pid/64/9877.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

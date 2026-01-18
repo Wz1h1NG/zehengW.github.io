@@ -27,9 +27,13 @@ redirect_from:
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"> I am currently an assistant professor of computer science at Great Bay University, China, leading the YU Vision (YUV) Group. I was a Postdoctoral researcher at ROSE Lab, Nanyang Technological University, working with [Prof. Alex Kot](https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=en). I also serve as an advisor on rPPG-based healthcare for [BioTrillion](https://www.biotrillion.com/team), USA. I received my PhD degree in CS at CMVS, University of Oulu in 2022 (supervised by [Prof. Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en)). I was a visiting scholar at TVG, University of Oxford, from July to November 2021, supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en). My research interests include computer vision, biometric security, and multimodal learning.</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">
+    I am currently an assistant professor of computer science at Great Bay University, China, leading the YU Vision (YUV) Group. I was a Postdoctoral researcher at ROSE Lab, Nanyang Technological University, working with <a href="https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=en" target="_blank">Prof. Alex Kot</a>. I also serve as an advisor on rPPG-based healthcare for <a href="https://www.biotrillion.com/team" target="_blank">BioTrillion</a>, USA. I received my PhD degree in CS at CMVS, University of Oulu in 2022 (supervised by <a href="https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en" target="_blank">Prof. Guoying Zhao</a>). I was a visiting scholar at TVG, University of Oxford, from July to November 2021, supervised by <a href="https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en" target="_blank">Prof. Philip Torr</a>. My research interests include computer vision, biometric security, and multimodal learning.
+</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>[Urgent Recuritment:] I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干.</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;">
+    <font color="a82e2e"><b>[Urgent Recruitment:]</b> I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干.</font>
+</p>
 
 # News
 - [2024.11] Our PhysMamba paper is granted [CCBR 2024 Best Paper Honorable Mention Award (最佳论文提名奖)](https://drive.google.com/file/d/1DnuEuENHoEvMs2G6PwrRnq37ArajycrC/view?usp=sharing), Congra. to Chaoqi & Yiping！
